@@ -31,8 +31,20 @@ Follow the following steps
 ## **Results**
 We ran this on a wheelchair simulator game, available at https://github.com/zeerakt/EEGCart
 We had the following results on the Physics Simulation.
-
+- Moving Forward
+<p align="center">
+</br><img src="https://user-images.githubusercontent.com/48885205/173187858-3e758f7c-f5d4-4071-aec6-81256fb6ca13.png" width="400" height="200">
+</p>
+- Turning Left
+<p align="center">
+</br><img src="https://user-images.githubusercontent.com/48885205/173187875-dadd2b29-a49a-4f21-9036-a3c45957846d.png" width="400" height="200">
+</p>
+- Turning Right
+<p align="center">
+</br><img src="https://user-images.githubusercontent.com/48885205/173187901-297caf79-98d9-4efb-b610-f0b81c2374da.png" width="400" height="200">
+</p>
 
 ## **Credits**
-- To github.com/hauke-d for the CNN Model
-- To github.com/CanYouCatchMe01 for the Socket Communication
+- To https://github.com/hauke-d for the CNN Model
+- To https://github.com/CanYouCatchMe01 for the Socket Communication
+- To https://github.com/sccn for the Lab Streaming Layer
