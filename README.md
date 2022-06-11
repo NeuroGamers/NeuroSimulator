@@ -18,3 +18,16 @@ The EEG signal this system is trained for is of:
 
 ## **Training of Model**
 You can use the pre-trained model for this, or you can train your own with either your data or the one we used which is publically available at: https://drive.google.com/drive/folders/11tCrbFUudiq6_ADMQRNwThn3n-eYqREv?usp=sharing
+
+## **How to use**
+Follow the following steps
+1. Add "Streaming_and_Classification.py", "Interface_With_Agent.cs" and "Pre-Trained Model" (or your own saved model if you have trained it yourself) in the scripts entry of your agent (prefrably a carting agent).
+2. Turn on the OpenVIBE Aquisition Server and adjust the parameters to your choosing and select the used driver after connecting the EEG headset.
+3. Run "LSL_Exporting.xml"
+4. Run the game
+5. Run "Streaming_And_Classification.py"
+6. Enjoy!
+
+## **Results**
+We ran this on a wheelchair simulator game, available at https://github.com/zeerakt/EEGCart
+We had the following results on the Physics Simulation.
