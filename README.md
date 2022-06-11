@@ -31,3 +31,8 @@ Follow the following steps
 ## **Results**
 We ran this on a wheelchair simulator game, available at https://github.com/zeerakt/EEGCart
 We had the following results on the Physics Simulation.
+
+
+## **Credits**
+- To github.com/hauke-d for the CNN Model
+- To github.com/CanYouCatchMe01 for the Socket Communication
