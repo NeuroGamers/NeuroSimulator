@@ -21,7 +21,7 @@ You can use the pre-trained model for this, or you can train your own with eithe
 
 ## **How to use**
 Follow the following steps
-1. Add "Streaming_and_Classification.py", "Interface_With_Agent.cs" and "Pre-Trained Model" (or your own saved model if you have trained it yourself) in the scripts entry of your agent (prefrably a carting agent).
+1. Add "Streaming_and_Classification.py", "Interface_With_Agent.cs" and "Pre-Trained Model" (or your own saved model if you have trained it yourself) in the scripts directory of your agent (prefrably a carting agent).
 2. Turn on the OpenVIBE Aquisition Server and adjust the parameters to your choosing and select the used driver after connecting the EEG headset.
 3. Run "LSL_Exporting.xml"
 4. Run the game
