@@ -9,7 +9,7 @@ import time
 host, port = "127.0.0.1", 25001          
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 sock.connect((host, port))
-model = keras.models.load_model('Model')
+model = keras.models.load_model('Pre-Trained Model')
 
 #Loading signal data from .edf file
 
